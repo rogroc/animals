@@ -1,0 +1,4183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Recollida d&apos;animals.kmz</name>
+	<StyleMap id="m_ylw-pushpin0100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin1000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl4000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gos icona-303">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gos icona-362</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gos icona-302</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gos icona-3100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gos icona-330</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gos icona-330</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gos icona-3110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gos icona-390</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gos icona-360</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gos icona-312">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gos icona-340</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gos icona-340</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gos icona-313">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gos icona-3100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gos icona-313</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gos icona-320">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gos icona-370</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gos icona-3110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gos icona-330">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gos icona-3110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gos icona-390</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gos icona-340">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gos icona-300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gos icona-3100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gos icona-350">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gos icona-320</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gos icona-380</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gos icona-360">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gos icona-314</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gos icona-312</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gos icona-370">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gos icona-350</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gos icona-370</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gos icona-380">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gos icona-313</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gos icona-350</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_gos icona-390">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_gos icona-380</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_gos icona-321</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-2110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-280</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-2100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-215</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-2120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-2110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-250</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-270</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-2120">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-290</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-250</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-2130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-220</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-2140</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-214">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-2100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-240</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-215">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-2120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-2130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-220">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-230</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-230">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-260</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-216</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-240">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-230</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-250">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-280</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-290</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-260">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-270</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-220</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-2700">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-2131</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-2100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-271">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-21300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-2110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-280">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-240</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-260</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_refugi icona-290">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_refugi icona-214</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_refugi icona-215</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin03">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin02</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0100">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1000">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin200">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin400">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0100">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1000">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl4000">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_gos icona-302">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff005555</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_gos icona-3100">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_gos icona-3110">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_gos icona-312">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_gos icona-313">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4b8dff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_gos icona-321">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_gos icona-330">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_gos icona-340">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_gos icona-350">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_gos icona-360">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_gos icona-370">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_gos icona-380">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_gos icona-390">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_refugi icona-200">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.75001</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_refugi icona-2100">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_refugi icona-2110">
+		<IconStyle>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_refugi icona-2120">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_refugi icona-2130">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_refugi icona-2140">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_refugi icona-215">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_refugi icona-216">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4b8dff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_refugi icona-220">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff005555</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_refugi icona-230">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_refugi icona-240">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_refugi icona-250">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_refugi icona-260">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_refugi icona-270">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_refugi icona-280">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_refugi icona-290">
+		<IconStyle>
+			<scale>1.16667</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin02">
+		<IconStyle>
+			<scale>1.18182</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_gos icona-300">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_gos icona-3100">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4b8dff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_gos icona-3110">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_gos icona-313">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_gos icona-314">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_gos icona-320">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_gos icona-330">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_gos icona-340">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_gos icona-350">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_gos icona-362">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff005555</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_gos icona-370">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_gos icona-380">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_gos icona-390">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_refugi icona-200">
+		<IconStyle>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_refugi icona-2100">
+		<IconStyle>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000aa</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_refugi icona-2110">
+		<IconStyle>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_refugi icona-2120">
+		<IconStyle>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_refugi icona-21300">
+		<IconStyle>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_refugi icona-2131">
+		<IconStyle>
+			<Icon>
+				<href>gos icona-3.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_refugi icona-214">
+		<IconStyle>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_refugi icona-215">
+		<IconStyle>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_refugi icona-220">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_refugi icona-230">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.5</scale>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_refugi icona-240">
+		<IconStyle>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_refugi icona-250">
+		<IconStyle>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_refugi icona-260">
+		<IconStyle>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff4b8dff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_refugi icona-270">
+		<IconStyle>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff005555</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_refugi icona-280">
+		<IconStyle>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_refugi icona-290">
+		<IconStyle>
+			<Icon>
+				<href>refugi icona-2.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin01">
+		<IconStyle>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>1.5</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Recollida d&apos;animals</name>
+		<Folder>
+			<name>Municipis</name>
+			<Placemark>
+				<name>Parets del Vallès</name>
+				<LookAt>
+					<longitude>2.228586400383559</longitude>
+					<latitude>41.56468600005962</latitude>
+					<altitude>0</altitude>
+					<heading>2.544521271191173e-10</heading>
+					<tilt>0</tilt>
+					<range>6400.458144883545</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-370</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.228586400383559,41.56468600005962,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Refugis</name>
+			<Placemark>
+				<name>Vilanimal</name>
+				<description><![CDATA[<a href="http://vilanimal.org">vilanimal.org</a>]]></description>
+				<LookAt>
+					<longitude>2.357033099707548</longitude>
+					<latitude>41.63739190003493</latitude>
+					<altitude>0</altitude>
+					<heading>-1.948608570378817e-10</heading>
+					<tilt>0</tilt>
+					<range>1000.000056963235</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-200</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.357033099707548,41.63739190003493,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Refugi Rosalia</name>
+				<LookAt>
+					<longitude>2.410759892419789</longitude>
+					<latitude>41.6569675958344</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0005140572583025319</heading>
+					<tilt>24.40540388067387</tilt>
+					<range>111.7299032873022</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-200</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.410416223687917,41.65697336734144,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lliga per a la Protecció d&apos;Animals i Plantes de Barcelona</name>
+				<LookAt>
+					<longitude>2.12920299976078</longitude>
+					<latitude>41.4165520001076</latitude>
+					<altitude>0</altitude>
+					<heading>-1.584029538629358e-10</heading>
+					<tilt>0</tilt>
+					<range>999.9999833269713</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-290</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.12920299976078,41.41655200010761,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Arestes</name>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#m_ylw-pushpin1000</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.166595458795912,41.63061826098956,0 2.174048201871428,41.63772181612089,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Help Guau</name>
+			<Placemark>
+				<name>La Llagosta</name>
+				<LookAt>
+					<longitude>2.201534699729524</longitude>
+					<latitude>41.51276970222288</latitude>
+					<altitude>0</altitude>
+					<heading>-1.789875037613677e-10</heading>
+					<tilt>0</tilt>
+					<range>6405.731852204074</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.201534699729524,41.51276970222288,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Montcada i Reixac</name>
+				<LookAt>
+					<longitude>2.181871000288613</longitude>
+					<latitude>41.49315459904491</latitude>
+					<altitude>0</altitude>
+					<heading>1.911978519681737e-10</heading>
+					<tilt>0</tilt>
+					<range>6407.599872543394</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.181871000288613,41.4931545990449,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vallromanes</name>
+				<LookAt>
+					<longitude>2.303784791750785</longitude>
+					<latitude>41.52135867645295</latitude>
+					<altitude>0</altitude>
+					<heading>0.004147757210286877</heading>
+					<tilt>0</tilt>
+					<range>12606.43960226763</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.297785817760663,41.52448336962235,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lliçà de Vall</name>
+				<LookAt>
+					<longitude>2.228586402587856</longitude>
+					<latitude>41.58464829928852</latitude>
+					<altitude>0</altitude>
+					<heading>1.71754644117185e-09</heading>
+					<tilt>0</tilt>
+					<range>6398.14769187849</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.228586402587856,41.58464829928852,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Castelldefels</name>
+				<LookAt>
+					<longitude>1.976629400088124</longitude>
+					<latitude>41.28001609796029</latitude>
+					<altitude>0</altitude>
+					<heading>5.807414549817754e-11</heading>
+					<tilt>0</tilt>
+					<range>6428.756886610058</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>1.976629400088124,41.28001609796029,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>St. Just Desvern</name>
+				<LookAt>
+					<longitude>2.091559508407115</longitude>
+					<latitude>41.38356166910388</latitude>
+					<altitude>0</altitude>
+					<heading>0.05097276799972627</heading>
+					<tilt>0</tilt>
+					<range>22535.23903506973</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.072261799834076,41.38867077699651,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>St. Feliu de Llobregat</name>
+				<LookAt>
+					<longitude>2.07662706594568</longitude>
+					<latitude>41.39513385699686</latitude>
+					<altitude>0</altitude>
+					<heading>0.05132814452973606</heading>
+					<tilt>0</tilt>
+					<range>33374.02308442594</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.053116231236296,41.3985723593815,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Torrelles de Llobregat</name>
+				<LookAt>
+					<longitude>2.003590467679783</longitude>
+					<latitude>41.34973659657002</latitude>
+					<altitude>0</altitude>
+					<heading>0.006996662312861909</heading>
+					<tilt>0</tilt>
+					<range>27742.81366689644</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>1.974960830141812,41.36026711338715,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Molins de Rei</name>
+				<LookAt>
+					<longitude>2.032217199871651</longitude>
+					<latitude>41.41836178911819</latitude>
+					<altitude>0</altitude>
+					<heading>-8.470711647741501e-11</heading>
+					<tilt>0</tilt>
+					<range>12829.1667900717</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.032217199871651,41.41836178911819,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>St. Andreu de la Barca</name>
+				<LookAt>
+					<longitude>1.972828899125727</longitude>
+					<latitude>41.44703970021364</latitude>
+					<altitude>0</altitude>
+					<heading>-5.790430387818736e-10</heading>
+					<tilt>0</tilt>
+					<range>6411.729553016597</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>1.972828899125727,41.44703970021364,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Badia del Vallès</name>
+				<LookAt>
+					<longitude>2.114340304317206</longitude>
+					<latitude>41.50815125431114</latitude>
+					<altitude>0</altitude>
+					<heading>8.758270752966899e-07</heading>
+					<tilt>0</tilt>
+					<range>3247.189210313301</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.114340304317206,41.50815125431114,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Polinyà</name>
+				<LookAt>
+					<longitude>2.162329421782008</longitude>
+					<latitude>41.54731667289567</latitude>
+					<altitude>0</altitude>
+					<heading>0.02604339831701827</heading>
+					<tilt>0</tilt>
+					<range>22273.06959564254</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.160657366156471,41.55782156952674,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sentmenat</name>
+				<LookAt>
+					<longitude>2.1450523554238</longitude>
+					<latitude>41.60865993205452</latitude>
+					<altitude>0</altitude>
+					<heading>0.01156808763429629</heading>
+					<tilt>0</tilt>
+					<range>19227.53107522442</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.136234350642436,41.61200690185427,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.182579966571234,41.49252918387289,0 2.389048182106128,41.5676610809706,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.033636683952989,41.41786323412636,0 2.389048177847535,41.56768172316415,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						1.97352700439472,41.44698304377079,0 2.389061953657767,41.56767136218827,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.07335807927868,41.38637040498828,0 2.389034408150432,41.56767142095628,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.05430571078933,41.39733300949458,0 2.389048177811883,41.56769202520074,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						1.975706987357806,41.35945290531842,0 2.389048177811883,41.56769202520074,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						1.975836265028734,41.28041378309997,0 2.389034408150432,41.56767142095628,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.115013751666373,41.50800512465951,0 2.38903440807853,41.56768172301197,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.160445947391037,41.55854654005277,0 2.389048177811883,41.56769202520074,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.135576129926444,41.61216836144893,0 2.389020638280568,41.56768172350596,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.228677246329505,41.58380370789256,0 2.389061947681748,41.5676817231932,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.201845429145661,41.51294944459753,0 2.389048177811883,41.56769202520074,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-360</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.297960113022586,41.52448315850005,0 2.38906194762939,41.56770232765353,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Help Guau (Argentona)</name>
+				<description><![CDATA[<a href="http://www.helpguau.com">www.helpguau.com</a>]]></description>
+				<LookAt>
+					<longitude>2.389129500086618</longitude>
+					<latitude>41.56778559965836</latitude>
+					<altitude>0</altitude>
+					<heading>5.71965111907612e-11</heading>
+					<tilt>0</tilt>
+					<range>1000.000009556155</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2120</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.389129500086618,41.56778559965835,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>CAAD Maresme</name>
+			<Placemark>
+				<name>El Masnou</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.314767699385774</longitude>
+					<latitude>41.48056839722283</latitude>
+					<altitude>0</altitude>
+					<heading>-4.071221311687153e-10</heading>
+					<tilt>0</tilt>
+					<range>6408.695735800782</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.314767699385774,41.48056839722283,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Montgat</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.285050350141777</longitude>
+					<latitude>41.4684712253888</latitude>
+					<altitude>0</altitude>
+					<heading>-3.001411529307425e-09</heading>
+					<tilt>0</tilt>
+					<range>3240.520200363668</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.285050350141777,41.4684712253888,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Premià de Dalt</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.345820461784447</longitude>
+					<latitude>41.50489563586335</latitude>
+					<altitude>0</altitude>
+					<heading>-9.498484038896331e-10</heading>
+					<tilt>0</tilt>
+					<range>3222.495413746126</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.345820461784447,41.50489563586336,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cabrera de Mar</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.406027185163535</longitude>
+					<latitude>41.52116878267557</latitude>
+					<altitude>0</altitude>
+					<heading>-4.513510637184143e-09</heading>
+					<tilt>0</tilt>
+					<range>6420.002201280787</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.406027185163535,41.52116878267557,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Argentona</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.400846600145023</longitude>
+					<latitude>41.55316390052172</latitude>
+					<altitude>0</altitude>
+					<heading>9.609509251439517e-11</heading>
+					<tilt>0</tilt>
+					<range>3201.065095681887</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.400846600145024,41.55316390052172,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>St. Andreu de Llavaneres</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.4851463010349</longitude>
+					<latitude>41.57940600332951</latitude>
+					<altitude>0</altitude>
+					<heading>6.868892869209389e-10</heading>
+					<tilt>0</tilt>
+					<range>12797.96576142691</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.4851463010349,41.57940600332951,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canet de Mar</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.576861423610573</longitude>
+					<latitude>41.59987717424804</latitude>
+					<altitude>0</altitude>
+					<heading>-3.787161679336824e-08</heading>
+					<tilt>0</tilt>
+					<range>6441.804239509029</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.576861423610573,41.59987717424804,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>St. Cebrià de Vallalta</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.599705676612385</longitude>
+					<latitude>41.61989930386522</latitude>
+					<altitude>0</altitude>
+					<heading>-9.321066735224267e-10</heading>
+					<tilt>0</tilt>
+					<range>1604.764458872242</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.599705676612385,41.61989930386523,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pineda de Mar</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.673541200128777</longitude>
+					<latitude>41.63503390056289</latitude>
+					<altitude>0</altitude>
+					<heading>8.561595997764324e-11</heading>
+					<tilt>0</tilt>
+					<range>6393.883777314364</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.673541200128777,41.63503390056289,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santa Susanna</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.693416600316141</longitude>
+					<latitude>41.65450379822016</latitude>
+					<altitude>0</altitude>
+					<heading>2.101877512631869e-10</heading>
+					<tilt>0</tilt>
+					<range>6392.136209370143</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.693416600316141,41.65450379822016,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Malgrat de Mar</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.763047099691962</longitude>
+					<latitude>41.65285609929335</latitude>
+					<altitude>0</altitude>
+					<heading>-2.046977163136456e-10</heading>
+					<tilt>0</tilt>
+					<range>6391.933067315659</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.763047099691962,41.65285609929334,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tordera</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.717846399854518</longitude>
+					<latitude>41.69720429932623</latitude>
+					<altitude>0</altitude>
+					<heading>-9.697829279250407e-11</heading>
+					<tilt>0</tilt>
+					<range>3193.805375041357</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.717846399854518,41.69720429932622,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.389171790688138,41.56616638124739,0 2.400901680869925,41.55317478847304,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.389201051369296,41.56604621665672,0 2.406027013538401,41.52110458805075,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.389299462429777,41.56598648938095,0 2.345714147564539,41.50489443582384,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.38922507755178,41.56599195939113,0 2.314718519250929,41.48057021973866,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.389363887362106,41.56589361054372,0 2.284929056222449,41.46845061876302,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.389584992326024,41.56581765934116,0 2.48483946036077,41.57953098724057,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.389626963395644,41.56612987898085,0 2.577038246697685,41.59996604651036,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.389569795385957,41.5660067445763,0 2.600001419387115,41.62012315301572,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.389586217114734,41.56600933037374,0 2.673412989445667,41.63507785417177,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.389479687489193,41.56610574266252,0 2.693422433877535,41.65479359656742,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.38981468566897,41.5656933018695,0 2.762849673123728,41.6529552010658,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_refugi icona-2700</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.389752779490126,41.56589833743012,0 2.718101288145611,41.69731262333551,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>CAAD Maresme</name>
+				<description><![CDATA[<a href="http://animalsdelmaresme.org">animalsdelmaresme.org</a>]]></description>
+				<LookAt>
+					<longitude>2.389572930929163</longitude>
+					<latitude>41.56621088751035</latitude>
+					<altitude>0</altitude>
+					<heading>0.0358960323111737</heading>
+					<tilt>33.65391860089338</tilt>
+					<range>416.3429724440362</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-271</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.389174907451686,41.56605487949464,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>CAAS La Selva (Tossa)</name>
+			<Placemark>
+				<name>Riells i Viabrea</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.544669958730912</longitude>
+					<latitude>41.72766798840694</latitude>
+					<altitude>0</altitude>
+					<heading>-1.503719220943598e-08</heading>
+					<tilt>0</tilt>
+					<range>3199.256416352154</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.544669958730912,41.72766798840694,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Caldes de Malavella</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.807864002531264</longitude>
+					<latitude>41.83580252259835</latitude>
+					<altitude>0</altitude>
+					<heading>1.687995510057037e-09</heading>
+					<tilt>0</tilt>
+					<range>28771.47428024435</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.807864002531264,41.83580252259835,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blanes</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.790234274929848</longitude>
+					<latitude>41.67604416649409</latitude>
+					<altitude>0</altitude>
+					<heading>-1.000335216924379e-08</heading>
+					<tilt>0</tilt>
+					<range>7245.534435605203</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.790234274929848,41.67604416649408,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hostalric</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.627696599720851</longitude>
+					<latitude>41.74332850024551</latitude>
+					<altitude>0</altitude>
+					<heading>-1.858861268654621e-10</heading>
+					<tilt>0</tilt>
+					<range>3601.861292479045</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.62769659972085,41.74332850024551,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lloret de Mar</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.839816135984008</longitude>
+					<latitude>41.70059956090963</latitude>
+					<altitude>0</altitude>
+					<heading>2.263384489079244e-09</heading>
+					<tilt>0</tilt>
+					<range>7250.569316771082</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.839816135984008,41.70059956090963,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fogars de la Selva</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.678616537119876</longitude>
+					<latitude>41.72732255974039</latitude>
+					<altitude>0</altitude>
+					<heading>8.320132262040968e-12</heading>
+					<tilt>0</tilt>
+					<range>3610.928803245227</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.678616537119876,41.72732255974039,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Maçanet de la Selva</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.732498732910422</longitude>
+					<latitude>41.77683160180005</latitude>
+					<altitude>0</altitude>
+					<heading>3.36044287855374e-10</heading>
+					<tilt>0</tilt>
+					<range>1799.743519830896</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.732498732910422,41.77683160180006,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sant Feliu de Buixalleu</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.585755699977803</longitude>
+					<latitude>41.79101369985931</latitude>
+					<altitude>0</altitude>
+					<heading>-1.444051339251473e-11</heading>
+					<tilt>0</tilt>
+					<range>1000.000040974914</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.585755699977803,41.79101369985931,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sant Hilari Sacalm</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.512171400426042</longitude>
+					<latitude>41.87840120003879</latitude>
+					<altitude>0</altitude>
+					<heading>2.844847134835041e-10</heading>
+					<tilt>0</tilt>
+					<range>3593.282116789489</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.512171400426042,41.87840120003879,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Riudellots de la Selva</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.802617650697878</longitude>
+					<latitude>41.90100597874544</latitude>
+					<altitude>0</altitude>
+					<heading>-2.046714767375235e-10</heading>
+					<tilt>0</tilt>
+					<range>3619.27908425625</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.802617650697878,41.90100597874544,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santa Coloma de Farners</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.665124801482441</longitude>
+					<latitude>41.86244395555078</latitude>
+					<altitude>0</altitude>
+					<heading>-1.676788845515368e-08</heading>
+					<tilt>0</tilt>
+					<range>7221.503248861622</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.665124801482441,41.86244395555077,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Breda</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.556945535097137</longitude>
+					<latitude>41.74970772005133</latitude>
+					<altitude>0</altitude>
+					<heading>-2.837912730490781e-09</heading>
+					<tilt>0</tilt>
+					<range>3608.46941526685</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.556945535097137,41.74970772005133,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vidreres</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.777603586484321</longitude>
+					<latitude>41.79021979586466</latitude>
+					<altitude>0</altitude>
+					<heading>-4.621147167498896e-11</heading>
+					<tilt>0</tilt>
+					<range>3600.504439432414</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.777603586484321,41.79021979586467,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Amer</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.602804055592947</longitude>
+					<latitude>42.01041682675763</latitude>
+					<altitude>0</altitude>
+					<heading>1.012542702631971e-09</heading>
+					<tilt>0</tilt>
+					<range>1811.379769540285</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.602804055592947,42.01041682675763,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vilobí d&apos;Onyar</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.741268137942101</longitude>
+					<latitude>41.888904945756</latitude>
+					<altitude>0</altitude>
+					<heading>1.210578071297422e-08</heading>
+					<tilt>0</tilt>
+					<range>1085.07965007382</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.741268137942101,41.88890494575599,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tossa de Mar</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.930264791572639</longitude>
+					<latitude>41.72251885349514</latitude>
+					<altitude>0</altitude>
+					<heading>2.873258234665885e-09</heading>
+					<tilt>0</tilt>
+					<range>14423.898830996</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.930264791572639,41.72251885349514,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Susqueda</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.505289199961063</longitude>
+					<latitude>42.04052880021043</latitude>
+					<altitude>0</altitude>
+					<heading>-2.633598668585588e-11</heading>
+					<tilt>0</tilt>
+					<range>1792.571964348133</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.505289199961063,42.04052880021044,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sant Julià de Llor</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.653674203988971</longitude>
+					<latitude>41.97335799835036</latitude>
+					<altitude>0</altitude>
+					<heading>2.667495628887953e-09</heading>
+					<tilt>0</tilt>
+					<range>7177.160396740305</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.653674203988972,41.97335799835037,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Massanes</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.653010510040992</longitude>
+					<latitude>41.76529525216644</latitude>
+					<altitude>0</altitude>
+					<heading>-2.573193971644567e-10</heading>
+					<tilt>0</tilt>
+					<range>14440.93840287563</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.653010510040992,41.76529525216644,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Osor</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.556633899846312</longitude>
+					<latitude>41.94551630020092</latitude>
+					<altitude>0</altitude>
+					<heading>-1.027120377445125e-10</heading>
+					<tilt>0</tilt>
+					<range>1000.000015775872</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.556633899846312,41.94551630020091,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Cellera de Ter</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.620787999944334</longitude>
+					<latitude>41.96853850002658</latitude>
+					<altitude>0</altitude>
+					<heading>-3.721010435711204e-11</heading>
+					<tilt>0</tilt>
+					<range>1794.608591005423</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.620787999944334,41.96853850002658,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brunyola</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.684193699869282</longitude>
+					<latitude>41.90452250024903</latitude>
+					<altitude>0</altitude>
+					<heading>-8.755033357797586e-11</heading>
+					<tilt>0</tilt>
+					<range>999.8861941866811</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.684193699869282,41.90452250024904,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sils</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.743236800572415</longitude>
+					<latitude>41.81088469555607</latitude>
+					<altitude>0</altitude>
+					<heading>3.811747685080007e-10</heading>
+					<tilt>0</tilt>
+					<range>14387.26364532811</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.743236800572415,41.81088469555607,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CAAS La Selva (Tossa)</name>
+				<open>1</open>
+				<description><![CDATA[<a href="http://selva.cat/caas">selva.cat/caas</a>]]></description>
+				<LookAt>
+					<longitude>2.921145430371277</longitude>
+					<latitude>41.73246859806562</latitude>
+					<altitude>0</altitude>
+					<heading>3.285552742885329e-11</heading>
+					<tilt>0</tilt>
+					<range>1006.305914328355</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-220</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.921145430371277,41.73246859806562,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.554446825724506,41.72642891259245,0 2.923254117704204,41.73091458770174,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.743324532103915,41.80983842937336,0 2.9217304050921,41.73146301479596,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.627718833311199,41.74110503632198,0 2.92422140190574,41.73125347382289,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.652541208606898,41.76332308239683,0 2.922841727758672,41.73159967939082,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.558092973023391,41.74754596274998,0 2.922265583507284,41.73155931493796,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.5858020165013,41.78903641427286,0 2.923191421102114,41.73121349314437,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.730940704464824,41.7749142625585,0 2.921797556240322,41.73190432732997,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.808481338048909,41.83396497813827,0 2.921350059905055,41.73156086187689,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.664547051667972,41.86126938714725,0 2.922275883662893,41.73121502889169,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.682897493748564,41.9023722033628,0 2.922886694000562,41.73041128167442,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.740224905486079,41.88726449355578,0 2.92150829867778,41.73075970013006,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.802626159720285,41.89918167408113,0 2.921959012711135,41.73145389165408,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.932036053218634,41.71907559996144,0 2.923341064813956,41.73075823861445,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.511596971275136,41.87515650895578,0 2.921942568625802,41.73181020876875,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.556358741094869,41.94220088238868,0 2.921914948733728,41.73283697781491,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.505202508457367,42.03724081933935,0 2.924680347443194,41.73026707893873,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.619388299741032,41.96504983390479,0 2.921268615702792,41.73181080995345,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.60252189860855,42.00709249735171,0 2.919232936708061,41.73232603277204,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.653815549602705,41.97111807917192,0 2.921296179556432,41.7307837654982,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.839894596429788,41.69888720201737,0 2.923393141462589,41.73092265051962,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.789995572940633,41.67475677466043,0 2.923110844154879,41.73113311121774,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Amics dels Animals Dosrius</name>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_ylw-pushpin03</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.406853795877293,41.59418931643175,0 2.396669605359949,41.5804201947529,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_ylw-pushpin03</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.443727173370855,41.5992351250009,0 2.397829520995829,41.58110530524099,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Dosrius</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.405571733554548</longitude>
+					<latitude>41.58940178458528</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02224704694342278</heading>
+					<tilt>24.84993411994462</tilt>
+					<range>7199.281172529811</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-340</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.406961551903435,41.59494211291668,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canyemars</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.447779396057137</longitude>
+					<latitude>41.59641968725999</latitude>
+					<altitude>0</altitude>
+					<heading>0.002476880520831896</heading>
+					<tilt>16.66680651495014</tilt>
+					<range>8432.944292618309</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-340</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.445719304807628,41.59975207311211,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Amics dels Animals Dosrius</name>
+				<open>1</open>
+				<description><![CDATA[<a href="http://amicsdelsanimalsdosrius.cat">amicsdelsanimalsdosrius.cat</a>]]></description>
+				<LookAt>
+					<longitude>2.39544869999816</longitude>
+					<latitude>41.57906060008651</latitude>
+					<altitude>0</altitude>
+					<heading>-1.148180240008329e-12</heading>
+					<tilt>0</tilt>
+					<range>999.9044647392708</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-280</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.39544869999816,41.57906060008652,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Caldes Animal</name>
+			<Placemark>
+				<name>Caldes de Montbui</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.172198878605065</longitude>
+					<latitude>41.6295362348829</latitude>
+					<altitude>0</altitude>
+					<heading>-0.006610191608378459</heading>
+					<tilt>0</tilt>
+					<range>6268.578049874551</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-390</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.166825218546977,41.63078897880018,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-390</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.058448238405626,41.67877932908,0 2.173927944307881,41.63748823469214,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-390</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.087785159350619,41.61747782658909,0 2.174238123388261,41.63781420617229,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-390</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.174083160967466,41.6381024731356,0 2.081448594274851,41.47106981498732,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-390</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.182082961476055,41.5352300836421,0 2.173901856982421,41.63779334359906,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Santa Perpètua</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.182148700159912</longitude>
+					<latitude>41.53532850141272</latitude>
+					<altitude>0</altitude>
+					<heading>1.056204562160432e-10</heading>
+					<tilt>0</tilt>
+					<range>3606.497186580325</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-390</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.182148700159912,41.53532850141272,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sant Cugat del Vallès</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.050121484146543</longitude>
+					<latitude>41.46744025917625</latitude>
+					<altitude>0</altitude>
+					<heading>-0.01793355697666717</heading>
+					<tilt>10.61984326082883</tilt>
+					<range>8670.657958412548</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-390</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.081530885499665,41.47105308547241,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Castellar del Vallès</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.124837976772218</longitude>
+					<latitude>41.62310412779999</latitude>
+					<altitude>0</altitude>
+					<heading>0.8925880541904987</heading>
+					<tilt>0</tilt>
+					<range>8531.952233238986</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-390</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.087962393871119,41.61785416759579,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sant Llorenç Savall</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.057640599891339</longitude>
+					<latitude>41.68045059966913</latitude>
+					<altitude>0</altitude>
+					<heading>-7.242083252758909e-11</heading>
+					<tilt>0</tilt>
+					<range>1000.000022019741</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-390</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.058666926237829,41.67883488008361,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Caldes Animal</name>
+				<open>1</open>
+				<description><![CDATA[<a href="http://caldesanimal.org">caldesanimal.org</a>]]></description>
+				<LookAt>
+					<longitude>2.17370959680852</longitude>
+					<latitude>41.63838327834433</latitude>
+					<altitude>0</altitude>
+					<heading>0.02735920383146745</heading>
+					<tilt>56.05790132880643</tilt>
+					<range>240.2456830886636</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2110</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.173973932961006,41.63799258466455,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>APAG Granollers</name>
+			<Placemark>
+				<name>Santa Maria de Palautordera</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.445830791567611</longitude>
+					<latitude>41.6933701997628</latitude>
+					<altitude>0</altitude>
+					<heading>-5.609170974091468e-09</heading>
+					<tilt>0</tilt>
+					<range>14420.98897129385</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-330</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.445830791567611,41.6933701997628,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Granollers</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.281922980512074</longitude>
+					<latitude>41.60144617801169</latitude>
+					<altitude>0</altitude>
+					<heading>0.04537749268952181</heading>
+					<tilt>6.424469826568359</tilt>
+					<range>13276.70406911675</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-330</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.288052606097299,41.60610851293489,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-330</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.286589939032073,41.60597389959627,0 2.271478318081432,41.60249568278973,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>St. M. Palautordera-Granollers</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-330</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.440670554656979,41.68897345624135,0 2.270481803865088,41.60268100528364,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-330</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.2132647785683,41.68911400484886,0 2.269215900533808,41.60255937117665,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-330</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.306891044752701,41.55381071728323,0 2.270572588369082,41.60159647511524,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-330</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.239083069367365,41.53029149426762,0 2.269876062611451,41.60164325466166,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-330</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.118736527873837,41.36593503552863,0 2.26901352442024,41.60116885442923,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>L&apos;Hospitalet de Llobregat</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.116494200703534</longitude>
+					<latitude>41.36618649833434</latitude>
+					<altitude>0</altitude>
+					<heading>4.645371067091594e-10</heading>
+					<tilt>0</tilt>
+					<range>12840.10954805696</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-330</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.116494200703534,41.36618649833434,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Martorelles</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.236976186063044</longitude>
+					<latitude>41.53153858187127</latitude>
+					<altitude>0</altitude>
+					<heading>0.0006476258822119621</heading>
+					<tilt>0</tilt>
+					<range>3669.922695004561</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-320</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.239260970415897,41.53003487028001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bigues i Riells</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.21318656721043</longitude>
+					<latitude>41.68959714008185</latitude>
+					<altitude>0</altitude>
+					<heading>-0.000271998186379629</heading>
+					<tilt>6.415555763667745</tilt>
+					<range>5708.185710301402</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-330</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.21318656721043,41.68959714008185,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vilanova del Vallès</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.307374299452558</longitude>
+					<latitude>41.55315319639237</latitude>
+					<altitude>0</altitude>
+					<heading>-3.633803602038827e-10</heading>
+					<tilt>0</tilt>
+					<range>6401.42841017573</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-330</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.307374299452558,41.55315319639237,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>APAG Granollers</name>
+				<open>1</open>
+				<description><![CDATA[<a href="https://protectoragranollers.org/">https://protectoragranollers.org/</a>]]></description>
+				<LookAt>
+					<longitude>2.269302259174166</longitude>
+					<latitude>41.6004139504172</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0003374921355440165</heading>
+					<tilt>0</tilt>
+					<range>1148.199373393248</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-250</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.269835941159031,41.60215540492458,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Rodamons 24h</name>
+			<Placemark>
+				<name>Sant Pere de Vilamajor</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.392044340563264</longitude>
+					<latitude>41.70569839668706</latitude>
+					<altitude>0</altitude>
+					<heading>0.02026471249430403</heading>
+					<tilt>0</tilt>
+					<range>13925.90725010729</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-303</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.392331707777469,41.7066978343092,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cardedeu</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.359153100586835</longitude>
+					<latitude>41.63940240067179</latitude>
+					<altitude>0</altitude>
+					<heading>3.899529006441724e-10</heading>
+					<tilt>0</tilt>
+					<range>3196.505936747503</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-303</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.359153100586835,41.6394024006718,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Canovelles</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.269776227868898</longitude>
+					<latitude>41.62431363224756</latitude>
+					<altitude>0</altitude>
+					<heading>0.001201630824018143</heading>
+					<tilt>0</tilt>
+					<range>6538.606615609432</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-303</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.268207510412283,41.62438064984741,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lliçà d&apos;Amunt</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.239657699741828</longitude>
+					<latitude>41.60812960003607</latitude>
+					<altitude>0</altitude>
+					<heading>-1.716286941517991e-10</heading>
+					<tilt>0</tilt>
+					<range>3198.14800854687</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-303</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.239657699741828,41.60812960003607,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-303</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.239578637595019,41.61018271707208,0 2.238112796783627,41.66061328240289,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-303</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.267667521891965,41.62462261021275,0 2.238078612486993,41.66061391280198,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-303</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.357461830619181,41.63923170116535,0 2.23822197753113,41.66056389677588,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-303</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.391830520171552,41.70610536562529,0 2.34692398150355,41.68128669699242,0 2.238077662864753,41.66063906697036,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Rodamons 24h</name>
+				<open>1</open>
+				<description><![CDATA[<a href="http://www.rodamons24h.cat/">http://www.rodamons24h.cat/</a>]]></description>
+				<LookAt>
+					<longitude>2.238077899633058</longitude>
+					<latitude>41.66058440051891</latitude>
+					<altitude>0</altitude>
+					<heading>-2.439564954549554e-10</heading>
+					<tilt>0</tilt>
+					<range>1000.000008572197</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-260</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.238077899633058,41.66058440051891,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>ARBRA Can Moret</name>
+			<Placemark>
+				<name>Cànoves i Samalús</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.355026285628914</longitude>
+					<latitude>41.69313695399913</latitude>
+					<altitude>0</altitude>
+					<heading>0.00293235098746005</heading>
+					<tilt>30.27087653531117</tilt>
+					<range>423.9437160361647</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3110</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.354432970440474,41.69336717710549,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-3110</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.352570771479501,41.69359604392435,0 2.240182962562667,41.66381643109566,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>ARBRA Can Moret (L&apos;Ametlla del Vallès)</name>
+				<open>1</open>
+				<description><![CDATA[<a href="http://arbra.org">arbra.org</a>]]></description>
+				<LookAt>
+					<longitude>2.240322789255551</longitude>
+					<latitude>41.66306351323492</latitude>
+					<altitude>0</altitude>
+					<heading>0.00132232688913322</heading>
+					<tilt>18.07551965435584</tilt>
+					<range>1073.03690472165</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2130</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.239637237500287,41.66382641811444,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>St. Fost de Campsentelles</name>
+				<LookAt>
+					<longitude>2.246110062813748</longitude>
+					<latitude>41.51624343505676</latitude>
+					<altitude>0</altitude>
+					<heading>0.02545221545912297</heading>
+					<tilt>20.51184682892593</tilt>
+					<range>3242.137429488276</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3110</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.236294271636279,41.51634707463313,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3110</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.239672349710686,41.66375052012792,0 2.235809625703953,41.51641404791462,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>L&apos;Ametlla del Vallès</name>
+				<LookAt>
+					<longitude>2.248572873380332</longitude>
+					<latitude>41.66228374750042</latitude>
+					<altitude>0</altitude>
+					<heading>0.02652957292227542</heading>
+					<tilt>20.92510009047433</tilt>
+					<range>4462.249244442999</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3110</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.262375076926668,41.66791337384422,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3110</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.239929049091318,41.66375762709213,0 2.26236969953078,41.66786206126793,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Sta. Eulàlia de Ronçana</name>
+				<LookAt>
+					<longitude>2.252952866201028</longitude>
+					<latitude>41.64060883191834</latitude>
+					<altitude>0</altitude>
+					<heading>0.03074927099981445</heading>
+					<tilt>20.11469039057822</tilt>
+					<range>10417.42457957366</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-3110</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.232383823555073,41.63722629912971,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-3110</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.232367660404975,41.63744392757599,0 2.239881889533,41.66353732286686,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Can Clarens</name>
+			<Placemark>
+				<name>St. Esteve de Palautordera</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.436865800058918</longitude>
+					<latitude>41.70319270028238</latitude>
+					<altitude>0</altitude>
+					<heading>3.849763264910199e-11</heading>
+					<tilt>0</tilt>
+					<range>1000.000039541565</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-313</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.436865800058918,41.70319270028237,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Roca del Vallès</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.325859999811208</longitude>
+					<latitude>41.58148049924316</latitude>
+					<altitude>0</altitude>
+					<heading>-1.257595296744026e-10</heading>
+					<tilt>0</tilt>
+					<range>3199.336463506367</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-313</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.325859999811208,41.58148049924316,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sant Celoni</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.485734215841298</longitude>
+					<latitude>41.68840636182352</latitude>
+					<altitude>0</altitude>
+					<heading>-0.04261515542279627</heading>
+					<tilt>5.577635367992219</tilt>
+					<range>6268.450665780754</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-313</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.485734215841298,41.68840636182352,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>St. Celoni-Vallgorguina</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-313</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.486089579266884,41.68541770850641,0 2.483261294888646,41.66602777697814,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-313</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.32800318157117,41.58321125772046,0 2.481259507118181,41.66054198575124,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#msn_gos icona-313</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.445209197958087,41.70023345644625,0 2.465816177540534,41.68601717826834,0 2.482791700708544,41.66707708805304,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Can Clarens</name>
+				<open>1</open>
+				<description><![CDATA[<a href="http://mascotesbcn.com">mascotesbcn.com</a>]]></description>
+				<LookAt>
+					<longitude>2.490044340819682</longitude>
+					<latitude>41.65859694367882</latitude>
+					<altitude>0</altitude>
+					<heading>0.0007017771838127753</heading>
+					<tilt>14.25155712484901</tilt>
+					<range>8280.790270832158</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-230</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.483268133995187,41.66162173328993,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>SPAM Refugi Cal Pilé (Mataró)</name>
+			<Placemark>
+				<name>Mataró</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.481743637021987</longitude>
+					<latitude>41.53079770663656</latitude>
+					<altitude>0</altitude>
+					<heading>1.600870798171797</heading>
+					<tilt>4.402409086961961</tilt>
+					<range>15829.14997525885</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin200</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.440057887187301,41.53642139612951,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin200</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.461454647086554,41.54441947117663,0 2.439858703499938,41.53613655123789,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin200</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.408576520716874,41.66612186945768,0 2.460015280209666,41.55169211490767,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Ripollet</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.156936808758503</longitude>
+					<latitude>41.49845011381444</latitude>
+					<altitude>0</altitude>
+					<heading>-2.145880486649916e-11</heading>
+					<tilt>0</tilt>
+					<range>3621.215729295241</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin200</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.156936808758503,41.49845011381444,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mollet del Vallès</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.208910900329641</longitude>
+					<latitude>41.5450948020197</latitude>
+					<altitude>0</altitude>
+					<heading>2.18288822821542e-10</heading>
+					<tilt>0</tilt>
+					<range>14450.1352187258</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin200</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.208910900329641,41.5450948020197,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin200</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.15695444241284,41.49831852652721,0 2.461109582920213,41.54449918406733,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin200</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.208296448291891,41.5445692251158,0 2.461617284506865,41.54425912014026,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>SPAM Refugi Cal Pilé (Mataró)</name>
+				<open>1</open>
+				<description><![CDATA[<a href="http://protectoramataro.org">protectoramataro.org</a>]]></description>
+				<LookAt>
+					<longitude>2.45261521462556</longitude>
+					<latitude>41.54559190223355</latitude>
+					<altitude>0</altitude>
+					<heading>-0.004317371422110268</heading>
+					<tilt>0</tilt>
+					<range>6250.703542581257</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-214</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.461339970669132,41.54443405514981,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>St. Antoni de Vilamajor</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.402436958912562</longitude>
+					<latitude>41.67282940149455</latitude>
+					<altitude>0</altitude>
+					<heading>0.004084196585647596</heading>
+					<tilt>15.92204735221278</tilt>
+					<range>2656.532546976038</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin200</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.400678975943684,41.67216123891071,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Sir Can</name>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin0100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						1.846556066630525,41.34785346899384,0 2.001753411035858,41.30266814432594,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin0100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						1.847705715173349,41.34747045217606,0 2.09781898439479,41.32669146132915,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin0100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.070340619083391,41.35685517174989,0 1.848497913054943,41.34746725858986,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin0100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						1.847720848418646,41.34727413921375,0 2.090868567776445,41.37658376851976,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin0100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.26779432761087,41.54361980284141,0 1.847934448366355,41.3473654713721,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin0100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						1.901871255341276,41.5170378799773,0 1.847733415607935,41.34732273023663,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin0100</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						1.847909980872085,41.34719008377135,0 1.895285041786599,41.54181755244942,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Gavà</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.001935901578356</longitude>
+					<latitude>41.30282756464944</latitude>
+					<altitude>0</altitude>
+					<heading>-3.983132867656514e-05</heading>
+					<tilt>0</tilt>
+					<range>3628.316364953431</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.001935901578356,41.30282756464944,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>El Prat de Llobregat</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.098087207751835</longitude>
+					<latitude>41.32743011095118</latitude>
+					<altitude>0</altitude>
+					<heading>0.001464948763900781</heading>
+					<tilt>10.04865732648693</tilt>
+					<range>2731.813822228859</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.098087207751835,41.32743011095118,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cornellà de Llobregat</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.070715571467712</longitude>
+					<latitude>41.35738304367838</latitude>
+					<altitude>0</altitude>
+					<heading>5.681502353518642e-10</heading>
+					<tilt>0</tilt>
+					<range>3637.132403664706</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.070715571467712,41.35738304367837,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Esplugues de Llobregat</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.091037699795315</longitude>
+					<latitude>41.37725609936834</latitude>
+					<altitude>0</altitude>
+					<heading>-1.350580800703288e-10</heading>
+					<tilt>0</tilt>
+					<range>7244.073241485714</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.091037699795315,41.37725609936835,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Montornès del Vallès</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.267963198864151</longitude>
+					<latitude>41.54394910346566</latitude>
+					<altitude>0</altitude>
+					<heading>-7.536942538044008e-10</heading>
+					<tilt>0</tilt>
+					<range>14450.25354380622</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.267963198864151,41.54394910346567,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Abrera</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>1.901780198510301</longitude>
+					<latitude>41.51752659938491</latitude>
+					<altitude>0</altitude>
+					<heading>-1.291702173655368e-09</heading>
+					<tilt>0</tilt>
+					<range>3614.577661263889</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>1.901780198510301,41.5175265993849,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Olesa de Montserrat</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>1.891337100623254</longitude>
+					<latitude>41.54516949848652</latitude>
+					<altitude>0</altitude>
+					<heading>4.129341972797546e-10</heading>
+					<tilt>0</tilt>
+					<range>3613.009575661939</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin0100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>1.895314018081562,41.54280133572007,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sir Can</name>
+				<open>1</open>
+				<description><![CDATA[Sir Can - Residencia canina
+Calle de Fontana, s/n
+08795 Olesa de Bonesvalls
+Barcelona
+
+609 15 83 17
+
+<a href="http://sircan.cat">sircan.cat</a>]]></description>
+				<LookAt>
+					<longitude>1.846199000023423</longitude>
+					<latitude>41.34791799991855</latitude>
+					<altitude>0</altitude>
+					<heading>1.498279796570426e-11</heading>
+					<tilt>0</tilt>
+					<range>1000.000002850403</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-240</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>1.846199000023423,41.34791799991855,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Sir Can Rubí</name>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<open>1</open>
+				<styleUrl>#m_ylw-pushpin400</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.034082892463589,41.49357016448113,0 2.035222050033083,41.50320969793559,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Rubí</name>
+				<open>1</open>
+				<LookAt>
+					<longitude>2.042192705947927</longitude>
+					<latitude>41.49758960588932</latitude>
+					<altitude>0</altitude>
+					<heading>-0.2509080630437167</heading>
+					<tilt>0</tilt>
+					<range>7545.442727893036</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-380</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.034175355199037,41.49370881031788,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sircan Rubi</name>
+				<open>1</open>
+				<description>Posem la localització de la Policia Local atès que no figura enlloc l&apos;adreça de Sircan Rubí.
+
+Mòbil: 609158317</description>
+				<LookAt>
+					<longitude>2.035163999939211</longitude>
+					<latitude>41.50344889990269</latitude>
+					<altitude>0</altitude>
+					<heading>-4.017557402824159e-11</heading>
+					<tilt>0</tilt>
+					<range>1000.000007691995</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-215</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.035163999939211,41.50344889990269,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>CAACB Barcelona</name>
+			<Placemark>
+				<name>Barcelona</name>
+				<open>1</open>
+				<Camera>
+					<longitude>2.19527073008682</longitude>
+					<latitude>41.36057174990006</latitude>
+					<altitude>25843.11616508701</altitude>
+					<heading>1.836736408706043</heading>
+					<tilt>12.97885813353929</tilt>
+					<roll>-0.915865752670732</roll>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</Camera>
+				<styleUrl>#msn_gos icona-350</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.172287186186912,41.37845262058573,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CAACB Barcelona</name>
+				<description><![CDATA[<a href="http://ajuntament.barcelona.cat/adopta/">http://ajuntament.barcelona.cat/adopta/</a>
+
+Centre d'acollida d'animals de companyia de Barcelona (CAACB) - Servei de rescat d'animals
+Carretera de l' Arrabassada, 250
+08035 Barcelona
+
+934 28 44 17]]></description>
+				<LookAt>
+					<longitude>2.131852599921296</longitude>
+					<latitude>41.43417149972987</latitude>
+					<altitude>0</altitude>
+					<heading>-5.203407337341074e-11</heading>
+					<tilt>0</tilt>
+					<range>1000.000002977056</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.131852599921296,41.43417149972988,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-350</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.172192094793812,41.37814912467761,0 2.132358869509228,41.43330426670523,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>CCAAC</name>
+			<Placemark>
+				<name>Sta. Coloma de Gramenet</name>
+				<LookAt>
+					<longitude>2.210321700490416</longitude>
+					<latitude>41.44458790155098</latitude>
+					<altitude>0</altitude>
+					<heading>3.238951653261863e-10</heading>
+					<tilt>0</tilt>
+					<range>6545.018241493231</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-312</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.218801422451624,41.44360463176227,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>St. Adrià del Besòs</name>
+				<LookAt>
+					<longitude>2.224626192472916</longitude>
+					<latitude>41.42670260694657</latitude>
+					<altitude>0</altitude>
+					<heading>-1.397575604312839e-05</heading>
+					<tilt>0</tilt>
+					<range>3295.743301969173</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-312</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.224626192472916,41.42670260694656,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Badalona</name>
+				<LookAt>
+					<longitude>2.25049936344117</longitude>
+					<latitude>41.44042060836934</latitude>
+					<altitude>0</altitude>
+					<heading>-0.009397673650542181</heading>
+					<tilt>0</tilt>
+					<range>7364.2824572126</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-312</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.244282244565552,41.44618829277084,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CCAAC Badalona</name>
+				<LookAt>
+					<longitude>2.264691000100363</longitude>
+					<latitude>41.46510290007024</latitude>
+					<altitude>0</altitude>
+					<heading>6.612432818162929e-11</heading>
+					<tilt>0</tilt>
+					<range>1000.000012665426</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_gos icona-312</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.264691000100363,41.46510290007025,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-312</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.244333388152158,41.44598690162494,0 2.26494540324911,41.46481325186078,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-312</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.21879032201983,41.44336782080626,0 2.264870511626687,41.46462847323261,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Camí sense títol</name>
+				<styleUrl>#msn_gos icona-312</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						2.224611626313977,41.42639451511202,0 2.264608396652161,41.46449736019106,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Caniland Montcada</name>
+				<description><![CDATA[Atès que no consta enlloc la seva adreça ho situem a l'Ajuntament de Montcada.
+
+Telèfon: 686 760 412
+
+<a href="http://canilandmontcada.org">canilandmontcada.org</a>]]></description>
+				<LookAt>
+					<longitude>2.18735149989421</longitude>
+					<latitude>41.4800150999303</latitude>
+					<altitude>0</altitude>
+					<heading>-7.013560398895755e-11</heading>
+					<tilt>0</tilt>
+					<range>1000.001395983701</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_refugi icona-2100</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>2.18735149989421,41.48001509993031,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
