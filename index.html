@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js" integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+
+<script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+
+<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
+
+<style>
+#container {
+    height: 800px;
+    width: 1200px;
+}
+</style>
+
+</head>
+
+<body class="example">
+	
+<div id="container"></div>
+
+<script>
+
+var mapCenter = [41.65118779330707, 2.268552944371759],
+  mapCurZoom = 10,
+  mapMinZoom = 1,
+  mapMaxZoom = 16;
+
+var osMap = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  minZoom: mapMinZoom,
+  maxZoom: mapMaxZoom,
+  attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a>'
+});
+
+var map = L.map('container', {
+  center: mapCenter,
+  zoom: mapCurZoom
+});
+
+var baseMaps = {
+  "Open Street Map": osMap
+};
+
+L.control.layers(baseMaps).setPosition("topleft").addTo(map);
+map.addLayer(osMap);
+
+var customLayer = L.geoJson(null, {
+  style: function(feature) {
+    return {
+      color: '#f00'
+    };
+  }
+});
+
+var runLayer = omnivore.kml("https://raw.githubusercontent.com/rogroc/animals/main/Recollida%20d'animals.kml", null, customLayer).addTo(map);
+
+runLayer.onEachFeature();
+
+</script>
+
+</body>
+</html>
